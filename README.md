@@ -4,13 +4,13 @@
 ### Homepage
 ![homepage snap](static/screenshot/homepage.png)
 ### Admin Dashboard
-![dashboard snap](https://github.com/sumitkumar1503/bloodbankmanagement/blob/master/static/screenshot/admindashboard.png?raw=true)
+![dashboard snap](static/screenshot/admindashboard.png)
 ### Blood Donation 
-![invoice snap](https://github.com/sumitkumar1503/bloodbankmanagement/blob/master/static/screenshot/blooddonation.png?raw=true)
+![invoice snap](static/screenshot/blooddonation.png)
 ### Blood Request
-![doctor snap](https://github.com/sumitkumar1503/bloodbankmanagement/blob/master/static/screenshot/bloodrequest.png?raw=true)
+![doctor snap](static/screenshot/bloodrequest.png)
 ### Logout
-![doctor snap](https://github.com/sumitkumar1503/bloodbankmanagement/blob/master/static/screenshot/logout.png?raw=true)
+![doctor snap](static/screenshot/logout.png)
 ---
 ## Functions
 
